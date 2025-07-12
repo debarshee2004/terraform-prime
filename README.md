@@ -1,1 +1,1 @@
-Learning how to use Terraform to create AWS services
+Learning how to use Terraform
